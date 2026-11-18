@@ -1,0 +1,58 @@
+{
+  "student_test": {
+    "trips": 10,
+    "observations": 19160,
+    "obs_per_trip_min_median_max": [
+      262,
+      1420,
+      3958
+    ],
+    "missing_values_total": 0,
+    "trips_with_unsorted_timestamps": 0,
+    "pct_steps_1s_median": 99.95,
+    "trips_with_gap_gt_5min": 0,
+    "nodes_min_median_max": [
+      1770,
+      6596,
+      26635
+    ],
+    "isolated_nodes_total": 0,
+    "one_way_pct_median": 6.75,
+    "trips_with_route_breaks": 1,
+    "route_arcs_total": 3477
+  },
+  "train": {
+    "trips": 80,
+    "observations": 208417,
+    "obs_per_trip_min_median_max": [
+      361,
+      1529,
+      19313
+    ],
+    "missing_values_total": 0,
+    "trips_with_unsorted_timestamps": 0,
+    "pct_steps_1s_median": 99.1,
+    "trips_with_gap_gt_5min": 11,
+    "nodes_min_median_max": [
+      299,
+      9608,
+      155003
+    ],
+    "isolated_nodes_total": 0,
+    "one_way_pct_median": 4.85,
+    "trips_with_route_breaks": 10,
+    "route_arcs_total": 31336
+  },
+  "missing_trip_ids_evaluator_partition": [
+    15,
+    17,
+    23,
+    30,
+    49,
+    59,
+    67,
+    73,
+    87,
+    94
+  ]
+}
