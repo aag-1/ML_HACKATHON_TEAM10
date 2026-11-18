@@ -1,0 +1,20 @@
+{
+  "params": {
+    "beta": 3.0,
+    "w": 1.0,
+    "gap_s": 60.0,
+    "v_stationary": 12.0,
+    "d_off": null
+  },
+  "student_test_points": 19133,
+  "classifier_only_top1": 0.883499712538546,
+  "hmm_top1": 0.930904719594418,
+  "classifier_only_continuity": 0.9266218620129776,
+  "hmm_continuity": 0.9832578676769178,
+  "classifier_only_route_f1_mean": 0.9303834004984812,
+  "hmm_route_f1_mean": 0.9843508253545694,
+  "hmm_route_precision_mean": 0.9721476317934862,
+  "hmm_route_recall_mean": 0.9970848930151025,
+  "trips_where_hmm_did_not_help": [],
+  "hmm_decode_ms_per_point_mean": 6.60062487124303
+}

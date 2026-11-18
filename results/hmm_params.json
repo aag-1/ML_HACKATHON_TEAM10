@@ -1,0 +1,38 @@
+{
+  "beta": 3.0,
+  "w": 1.0,
+  "gap_s": 60.0,
+  "v_stationary": 12.0,
+  "d_off": null,
+  "selected_by": "max pooled Top-1 on 78 train trips with out-of-fold HGB probabilities",
+  "train_top1_hmm": 0.9331544144094293,
+  "train_top1_classifier_only": 0.8887862103311844,
+  "grid": {
+    "beta": [
+      2,
+      3,
+      5,
+      8
+    ],
+    "w": [
+      1.0
+    ],
+    "gap_s": [
+      30,
+      60,
+      120
+    ],
+    "v_stationary": [
+      null,
+      4,
+      8,
+      12
+    ],
+    "d_off": [
+      null,
+      15,
+      20
+    ]
+  },
+  "grid_seconds": 170.79417141573504
+}

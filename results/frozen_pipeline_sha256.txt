@@ -1,0 +1,47 @@
+Frozen pipeline fingerprints, recorded 2026-11-18 14:47 IST BEFORE the evaluator-test data was first used.
+Any later change to these files would change the hashes.
+
+ae4cb40336520b1f1e646fe95258cf617fa1f337541bc9984f148e53557fb88b  artifacts/model.joblib
+2d92a21c01d7152643f6a8bdd93a2f764ddf2f65a4d16468ca36158679d4224e  artifacts/hmm_params.json
+cdf0d365e7aa1bd0dd89ed430d95f36085925ef7a7f3f4bbfd7f9439a76fd0b5  artifacts/manifest.json
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  src/pathsnap/__init__.py
+dc3e0658f567c8d1e22ac42ae30d088c5fc0224ec253907c36bc34956bc67271  src/pathsnap/candidates.py
+c761eca842622ecf8581927212b9409b4a073dd91d614c0fb7c872cdaca8a224  src/pathsnap/config.py
+111f1ae25944fdd88293de01ca6af1c5afa198f9a0fa1682127a16771af730de  src/pathsnap/data.py
+8d75bb3b700eefdd962ff878276e688e1cc6cdba77403d01da8f88fbda3929b4  src/pathsnap/dataset.py
+398e46756af49933219f57330888842564d1a0ed8ee5262f7354300cf40c7726  src/pathsnap/features.py
+8b16285a3b36aba3e2a27d80625eee4d4c2d5725b2008ebd2bfc3f512d6e3fc3  src/pathsnap/geo.py
+390980d227ea1d5801dd67310589874849b66adf902503aabfe045668137886a  src/pathsnap/hmm.py
+7af83d0fa709432a954db6e188acd659531e4c03f54831042dbb4d77dba12b5c  src/pathsnap/labels.py
+1fabd04d4300eb8c63b88cd7cb2e475ba155f9196713869b5da7167abc2ebf3b  src/pathsnap/metrics.py
+d3df8597f09fdfa67ae79aad74dd4ab5286a3de08f297042cf7640f18bcb883f  src/pathsnap/pipeline.py
+56515e9372f0cd24953fef1d8f8ee7ef8938e309f9961ccfe74f8fcda3707842  src/pathsnap/preprocess.py
+2b3aef1d2920af50fc60def9aa95bb79273b4acd0ccc8d16af9fd248018f55df  src/pathsnap/viz.py
+ab2e27f90e161219855861540d127ade8765514cb620da62ad88eea429b37e22  api/main.py
+
+---
+Re-freeze 2026-11-18 15:04 IST after a SPEED-ONLY change (decision D33): cached road searches in hmm.py/pipeline.py and the /summary endpoint in api/main.py.
+Model and decoder parameters are unchanged. Predictions and reconstructed routes were verified identical on all 10 student-test trips before and after the change.
+
+ae4cb40336520b1f1e646fe95258cf617fa1f337541bc9984f148e53557fb88b  artifacts/model.joblib
+2d92a21c01d7152643f6a8bdd93a2f764ddf2f65a4d16468ca36158679d4224e  artifacts/hmm_params.json
+cdf0d365e7aa1bd0dd89ed430d95f36085925ef7a7f3f4bbfd7f9439a76fd0b5  artifacts/manifest.json
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  src/pathsnap/__init__.py
+dc3e0658f567c8d1e22ac42ae30d088c5fc0224ec253907c36bc34956bc67271  src/pathsnap/candidates.py
+c761eca842622ecf8581927212b9409b4a073dd91d614c0fb7c872cdaca8a224  src/pathsnap/config.py
+111f1ae25944fdd88293de01ca6af1c5afa198f9a0fa1682127a16771af730de  src/pathsnap/data.py
+8d75bb3b700eefdd962ff878276e688e1cc6cdba77403d01da8f88fbda3929b4  src/pathsnap/dataset.py
+398e46756af49933219f57330888842564d1a0ed8ee5262f7354300cf40c7726  src/pathsnap/features.py
+8b16285a3b36aba3e2a27d80625eee4d4c2d5725b2008ebd2bfc3f512d6e3fc3  src/pathsnap/geo.py
+c7f99df79bb3a1fc53b14470f8d37d3eb8881fa6af190f21de8526f8b9f70d44  src/pathsnap/hmm.py
+7af83d0fa709432a954db6e188acd659531e4c03f54831042dbb4d77dba12b5c  src/pathsnap/labels.py
+1fabd04d4300eb8c63b88cd7cb2e475ba155f9196713869b5da7167abc2ebf3b  src/pathsnap/metrics.py
+a0701bb583eba94b2b1e0c46eca78be8d309b5a059213a5631aea3fd5346392e  src/pathsnap/pipeline.py
+56515e9372f0cd24953fef1d8f8ee7ef8938e309f9961ccfe74f8fcda3707842  src/pathsnap/preprocess.py
+2b3aef1d2920af50fc60def9aa95bb79273b4acd0ccc8d16af9fd248018f55df  src/pathsnap/viz.py
+e93c06548c75f8cfd1214da42ed5584017405ae75152e656fc6fa1477f876cef  api/main.py
+
+---
+Re-freeze 2026-11-18 15:17 IST: api/main.py startup log line no longer prints the absolute data path (privacy). No pipeline change.
+
+f92ab1208823567e5c5f346d75e37355f1a13fb43931bb1bfca3dfe5ca005f0d  api/main.py
