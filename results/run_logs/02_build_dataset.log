@@ -1,0 +1,146 @@
+train        00000001  obs=  1315  cand=  10135  miss=0.15%  unreliable=0.00%
+train        00000002  obs=  7243  cand=  53404  miss=0.09%  unreliable=11.98%
+train        00000003  obs=   821  cand=   7754  miss=0.61%  unreliable=0.00%
+train        00000004  obs=  1064  cand=   6485  miss=0.56%  unreliable=0.00%
+train        00000005  obs=  1045  cand=   3109  miss=0.00%  unreliable=0.00%
+train        00000006  obs=  1450  cand=  10193  miss=0.21%  unreliable=0.00%
+train        00000008  obs=  3093  cand=  27396  miss=0.59%  unreliable=0.68%
+train        00000010  obs=  2711  cand=  24803  miss=0.78%  unreliable=0.00%
+train        00000011  obs=  2828  cand=  14217  miss=0.04%  unreliable=0.00%
+train        00000012  obs=  1608  cand=   6073  miss=0.00%  unreliable=0.00%
+train        00000013  obs=  2580  cand=  17308  miss=0.00%  unreliable=0.00%
+train        00000014  obs=   448  cand=   3893  miss=0.45%  unreliable=0.00%
+train        00000016  obs=  1305  cand=  11871  miss=0.84%  unreliable=0.00%
+train        00000018  obs=   379  cand=   3196  miss=0.00%  unreliable=0.00%
+train        00000019  obs=  2354  cand=  16449  miss=0.17%  unreliable=1.66%
+train        00000020  obs=  2353  cand=   8465  miss=0.00%  unreliable=1.53%
+train        00000021  obs= 15783  cand=  50135  miss=0.00%  unreliable=0.12%
+train        00000022  obs=   474  cand=   4194  miss=0.42%  unreliable=0.00%
+train        00000024  obs=   801  cand=   5151  miss=0.00%  unreliable=0.00%
+train        00000025  obs=  1179  cand=   8858  miss=0.09%  unreliable=0.00%
+train        00000026  obs=   361  cand=   3147  miss=0.00%  unreliable=0.00%
+train        00000027  obs=   694  cand=   4632  miss=0.00%  unreliable=0.00%
+train        00000028  obs=  3565  cand=  20197  miss=0.00%  unreliable=0.70%
+train        00000029  obs=   733  cand=   6249  miss=0.00%  unreliable=0.00%
+train        00000031  obs=  4245  cand=  27328  miss=0.05%  unreliable=0.00%
+train        00000032  obs=  2464  cand=  14780  miss=0.00%  unreliable=0.00%
+train        00000033  obs=  5844  cand=  36679  miss=19.76%  unreliable=59.03%
+train        00000034  obs=  3614  cand=  23407  miss=0.06%  unreliable=0.03%
+train        00000035  obs=  1643  cand=  14575  miss=0.12%  unreliable=0.00%
+train        00000036  obs=  1368  cand=   9903  miss=0.00%  unreliable=0.00%
+train        00000037  obs=   677  cand=   5988  miss=0.00%  unreliable=0.00%
+train        00000038  obs=  1287  cand=  10981  miss=0.00%  unreliable=0.00%
+train        00000039  obs=   363  cand=   2329  miss=0.00%  unreliable=0.00%
+train        00000041  obs=  1019  cand=   7617  miss=0.10%  unreliable=0.00%
+train        00000042  obs=  7739  cand=  55157  miss=0.00%  unreliable=0.00%
+train        00000043  obs=  2322  cand=  14450  miss=0.70%  unreliable=7.19%
+train        00000044  obs=   546  cand=   4253  miss=0.00%  unreliable=0.00%
+train        00000045  obs=   640  cand=   3308  miss=0.00%  unreliable=0.00%
+train        00000046  obs=  1401  cand=   7216  miss=0.00%  unreliable=0.00%
+train        00000047  obs=  1272  cand=  10737  miss=0.00%  unreliable=0.00%
+train        00000048  obs=  1240  cand=   7899  miss=0.00%  unreliable=0.00%
+train        00000050  obs=   518  cand=   3608  miss=0.00%  unreliable=0.00%
+train        00000051  obs=   984  cand=   8072  miss=0.00%  unreliable=0.00%
+train        00000053  obs=  1304  cand=  11264  miss=0.69%  unreliable=0.00%
+train        00000054  obs= 19313  cand=  23275  miss=11.67%  unreliable=89.44%
+train        00000055  obs=  2472  cand=  12750  miss=0.00%  unreliable=0.04%
+train        00000057  obs=  1645  cand=  13379  miss=0.06%  unreliable=0.79%
+train        00000058  obs=   599  cand=   5615  miss=1.84%  unreliable=0.00%
+train        00000060  obs=   854  cand=   8081  miss=0.47%  unreliable=0.00%
+train        00000061  obs=  1430  cand=  13079  miss=7.12%  unreliable=0.84%
+train        00000062  obs=  3378  cand=  26317  miss=0.06%  unreliable=0.00%
+train        00000063  obs=  2781  cand=  21377  miss=0.00%  unreliable=0.00%
+train        00000064  obs=  2093  cand=  13314  miss=0.10%  unreliable=0.00%
+train        00000066  obs=  4325  cand=  15217  miss=0.00%  unreliable=9.02%
+train        00000068  obs=   747  cand=   6138  miss=0.13%  unreliable=0.00%
+train        00000069  obs=  2067  cand=  17725  miss=0.24%  unreliable=0.00%
+train        00000070  obs=  2076  cand=  12710  miss=0.29%  unreliable=0.00%
+train        00000071  obs=   850  cand=   5872  miss=0.12%  unreliable=0.00%
+train        00000072  obs=   969  cand=   7756  miss=14.65%  unreliable=0.00%
+train        00000074  obs=  1929  cand=  13544  miss=0.10%  unreliable=0.00%
+train        00000075  obs=  1628  cand=  11356  miss=0.00%  unreliable=0.00%
+train        00000078  obs=  2909  cand=  21884  miss=0.07%  unreliable=0.17%
+train        00000079  obs=   689  cand=   6485  miss=0.14%  unreliable=0.00%
+train        00000080  obs=  2510  cand=  12929  miss=0.04%  unreliable=0.04%
+train        00000081  obs=  3224  cand=  20867  miss=0.00%  unreliable=4.44%
+train        00000082  obs=  4268  cand=  26045  miss=0.00%  unreliable=0.00%
+train        00000083  obs=  1507  cand=  13173  miss=0.07%  unreliable=0.00%
+train        00000084  obs= 16031  cand=  81260  miss=0.26%  unreliable=3.70%
+train        00000085  obs=  1092  cand=   6836  miss=0.09%  unreliable=1.10%
+train        00000086  obs=  4143  cand=  17986  miss=0.00%  unreliable=0.00%
+train        00000088  obs=   876  cand=   8467  miss=0.00%  unreliable=0.00%
+train        00000089  obs=  1228  cand=  11918  miss=1.55%  unreliable=0.00%
+train        00000090  obs=   536  cand=   4631  miss=0.56%  unreliable=0.00%
+train        00000092  obs=  7892  cand=  58209  miss=0.10%  unreliable=0.00%
+train        00000093  obs=  1211  cand=  10914  miss=3.57%  unreliable=0.66%
+train        00000095  obs=  1551  cand=  13719  miss=0.13%  unreliable=0.00%
+train        00000096  obs=  3271  cand=  17869  miss=0.00%  unreliable=4.43%
+train        00000097  obs=  1740  cand=  11231  miss=0.00%  unreliable=0.00%
+train        00000098  obs=  5584  cand=  29492  miss=0.04%  unreliable=0.21%
+train        00000099  obs=  2322  cand=  20022  miss=0.13%  unreliable=1.46%
+student_test 00000000  obs=  2503  cand=  10714  miss=0.12%  unreliable=0.00%
+student_test 00000007  obs=  1354  cand=   4757  miss=0.00%  unreliable=0.00%
+student_test 00000009  obs=  1049  cand=   9568  miss=2.29%  unreliable=0.00%
+student_test 00000040  obs=  2995  cand=  13908  miss=0.00%  unreliable=0.00%
+student_test 00000052  obs=   262  cand=   1947  miss=0.00%  unreliable=0.00%
+student_test 00000056  obs=  3958  cand=  30933  miss=0.05%  unreliable=0.68%
+student_test 00000065  obs=   768  cand=   6600  miss=0.00%  unreliable=0.00%
+student_test 00000076  obs=  1486  cand=  13597  miss=0.40%  unreliable=0.00%
+student_test 00000077  obs=  3911  cand=  32290  miss=0.13%  unreliable=0.00%
+student_test 00000091  obs=   874  cand=   7230  miss=0.00%  unreliable=0.00%
+{
+  "train": {
+    "observations": 208417,
+    "candidate_rows": 1228307,
+    "features": [
+      "dist",
+      "u",
+      "d_end",
+      "arc_len",
+      "heading_diff",
+      "cos_heading_diff",
+      "speed",
+      "moving",
+      "dist_rank",
+      "dist_gap",
+      "n_cand",
+      "has_twin",
+      "heading_gap"
+    ],
+    "observations_used_for_modelling": 180715,
+    "unreliable_label_points": 23269,
+    "candidate_miss_rate_pct": 0.286,
+    "pct_points_no_candidates": 8.747,
+    "mean_candidates_per_point": 5.89,
+    "pct_positive_rows": 14.97
+  },
+  "student_test": {
+    "observations": 19160,
+    "candidate_rows": 131544,
+    "features": [
+      "dist",
+      "u",
+      "d_end",
+      "arc_len",
+      "heading_diff",
+      "cos_heading_diff",
+      "speed",
+      "moving",
+      "dist_rank",
+      "dist_gap",
+      "n_cand",
+      "has_twin",
+      "heading_gap"
+    ],
+    "observations_used_for_modelling": 19133,
+    "unreliable_label_points": 27,
+    "candidate_miss_rate_pct": 0.209,
+    "pct_points_no_candidates": 0.0,
+    "mean_candidates_per_point": 6.87,
+    "pct_positive_rows": 14.51
+  },
+  "excluded_train_trips": [
+    "00000033",
+    "00000054"
+  ]
+}
