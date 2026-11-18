@@ -1,0 +1,56 @@
+{
+  "train": {
+    "observations": 208417,
+    "candidate_rows": 1228307,
+    "features": [
+      "dist",
+      "u",
+      "d_end",
+      "arc_len",
+      "heading_diff",
+      "cos_heading_diff",
+      "speed",
+      "moving",
+      "dist_rank",
+      "dist_gap",
+      "n_cand",
+      "has_twin",
+      "heading_gap"
+    ],
+    "observations_used_for_modelling": 180715,
+    "unreliable_label_points": 23269,
+    "candidate_miss_rate_pct": 0.286,
+    "pct_points_no_candidates": 8.747,
+    "mean_candidates_per_point": 5.89,
+    "pct_positive_rows": 14.97
+  },
+  "student_test": {
+    "observations": 19160,
+    "candidate_rows": 131544,
+    "features": [
+      "dist",
+      "u",
+      "d_end",
+      "arc_len",
+      "heading_diff",
+      "cos_heading_diff",
+      "speed",
+      "moving",
+      "dist_rank",
+      "dist_gap",
+      "n_cand",
+      "has_twin",
+      "heading_gap"
+    ],
+    "observations_used_for_modelling": 19133,
+    "unreliable_label_points": 27,
+    "candidate_miss_rate_pct": 0.209,
+    "pct_points_no_candidates": 0.0,
+    "mean_candidates_per_point": 6.87,
+    "pct_positive_rows": 14.51
+  },
+  "excluded_train_trips": [
+    "00000033",
+    "00000054"
+  ]
+}
